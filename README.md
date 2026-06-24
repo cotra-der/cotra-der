@@ -1,16 +1,25 @@
-## Hi there 👋
+# Shashwat Gupta
+Software Engineer • AI & Web Developer
 
-<!--
-**cotra-der/cotra-der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-ready web apps and machine learning systems focused on practical impact and clean engineering.
 
-Here are some ideas to get you started:
+## Core Skills
+- Languages: Python, JavaScript, C++, SQL  
+- Frontend / Backend: React, Node.js, Firebase  
+- ML & Data: TensorFlow, Librosa, scikit-learn  
+- Tools: Git, VS Code, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+- Emente AI — Intelligent automation platform (Python, TensorFlow, Firebase)  
+- Acoustic Pest Detection — ML system for pest detection from audio (Python, Librosa, TensorFlow)
+
+## Current Work
+Enhancing Emente AI with predictive analytics and improving model deployment pipelines for scalability and observability.
+
+## Connect
+- GitHub: https://github.com/cotra-der  
+- LinkedIn: https://www.linkedin.com/in/shashwat--gupta  
+- Email: shashwatguptaid@gmail.com
+
+---
+"Code the stars, debug the voids."
