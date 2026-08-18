@@ -7,15 +7,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=700&color=8B5CF6&width=360&lines=Full-Stack+Developer;AI+Engineer;Co-Founder+%40+EmenteAI;Open-Source+Mentor" alt="Typing SVG" style="display:block;margin:0.5rem auto 0;" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat--gupta)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LionStone-1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cotra-der)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwatguptaid@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=LionStone-1&color=8b5cf6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/LionStone-1?style=flat-square&color=8b5cf6&label=Followers" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=cotra-der&color=8b5cf6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/cotra-der?style=flat-square&color=8b5cf6&label=Followers" alt="Followers" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/wave.svg" width="100%" height="56" alt="" />
+<img src="https://raw.githubusercontent.com/cotra-der/cotra-der/output/wave.svg" width="100%" height="56" alt="" />
 
 ---
 
@@ -53,7 +53,7 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/terminal.svg" alt="Terminal profile card" />
+<img src="https://raw.githubusercontent.com/cotra-der/cotra-der/output/terminal.svg" alt="Terminal profile card" />
 
 </div>
 
@@ -82,11 +82,11 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 
 <div align="center">
 
-![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLionStone-1&query=public_repos&style=for-the-badge&label=Repositories&color=8b5cf6&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/LionStone-1?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/LionStone-1?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white)
-![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLionStone-1&query=following&style=for-the-badge&label=Following&color=8b5cf6&logo=github&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=LionStone-1&color=8b5cf6&style=for-the-badge&label=Profile+Views)
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcotra-der&query=public_repos&style=for-the-badge&label=Repositories&color=8b5cf6&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/cotra-der?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/cotra-der?style=for-the-badge&color=8b5cf6&logo=github&logoColor=white)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcotra-der&query=following&style=for-the-badge&label=Following&color=8b5cf6&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=cotra-der&color=8b5cf6&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -97,9 +97,9 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/LionStone-1/LionStone-1/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cotra-der/cotra-der/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cotra-der/cotra-der/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/cotra-der/cotra-der/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -114,7 +114,7 @@ I'm an aspiring **AI & software engineering** professional pursuing an **Integra
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat--gupta)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LionStone-1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cotra-der)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwatguptaid@gmail.com)
 
 </div>
